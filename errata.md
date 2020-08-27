@@ -1,4 +1,4 @@
-# Errata for *Book Title*
+# Errata for *Modern C++ for Absolute Beginners*
 
 On **page 204** chapter **37.2 String Streams** [Corrected stream names]:
  
