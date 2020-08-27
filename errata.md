@@ -2,8 +2,8 @@
 
 On **page 204** chapter **37.2 String Streams** [Corrected stream names]:
  
-a. **std::istringstream** - the stream to read from a string
-b. **std::ostringstream** - the stream to write to a string
+a. **std::istringstream** - the stream to read from a string  
+b. **std::ostringstream** - the stream to write to a string  
 
 Updated the list to contain proper stream names.
 
