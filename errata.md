@@ -19,6 +19,7 @@ Updated the last sentence in the last paragraph to contain proper container name
 On **page 246** chapter **40.1.4 Move Semantics"** [Corrected comment in the code snippet]:
 
 The comment `// implement the copy logic here` should be:
+
 `// implement the move logic here`
 
 Updated the comment for the move semantics
