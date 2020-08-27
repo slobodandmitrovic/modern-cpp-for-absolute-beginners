@@ -10,12 +10,14 @@ Updated the list to contain proper stream names.
 ***
 
 On **page 202** chapter **38.3 Iterators"** [Corrected container names]:
+
 They are **std::multiset** and **std::multimap**.
 
 Updated the last sentence in the last paragraph to contain proper container names.
 ***
 
 On **page 246** chapter **40.1.4 Move Semantics"** [Corrected comment in the code snippet]:
+
 The comment `// implement the copy logic here` should be:
 `// implement the move logic here`
 
